@@ -7,7 +7,9 @@
   <li>The Bullets are handled by ArrayList and Threading</li>
   <li>Multiple Audios can be handled by HashMap</li>
   <li>The drop event of Hero handled by Threading</li>
-  <li>Also I introduxce the respawn feature of the Hero</li>
+  <li>Also I introduce the respawn feature of the Hero</li>
 </ul>
 <br>
-<a href="https://youtu.be/_kVNpkfXRQg">The Gameplay Link</a>
+
+
+<a href="https://youtu.be/_kVNpkfXRQg">The Gameplay Video Link</a>
